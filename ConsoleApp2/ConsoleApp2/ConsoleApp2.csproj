@@ -3,6 +3,8 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
+    <StartupObject>ConsoleApp2.Arrays01</StartupObject>
+    <ApplicationIcon />
   </PropertyGroup>
 
 </Project>

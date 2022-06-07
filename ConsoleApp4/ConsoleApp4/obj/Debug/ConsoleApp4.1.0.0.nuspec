@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>ConsoleApp4</id>
+    <version>1.0.0</version>
+    <authors>ConsoleApp4</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Sayali\Desktop\.Net\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp3.1\ConsoleApp4.runtimeconfig.json" target="lib\netcoreapp3.1\ConsoleApp4.runtimeconfig.json" />
+    <file src="C:\Users\Sayali\Desktop\.Net\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp3.1\ConsoleApp4.dll" target="lib\netcoreapp3.1\ConsoleApp4.dll" />
+  </files>
+</package>

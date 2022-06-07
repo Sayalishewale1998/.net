@@ -1,0 +1,14 @@
+C:\Users\Sayali\Desktop\.Net\valuetype\valuetype\bin\Debug\netcoreapp3.1\valuetype.exe
+C:\Users\Sayali\Desktop\.Net\valuetype\valuetype\bin\Debug\netcoreapp3.1\valuetype.deps.json
+C:\Users\Sayali\Desktop\.Net\valuetype\valuetype\bin\Debug\netcoreapp3.1\valuetype.runtimeconfig.json
+C:\Users\Sayali\Desktop\.Net\valuetype\valuetype\bin\Debug\netcoreapp3.1\valuetype.runtimeconfig.dev.json
+C:\Users\Sayali\Desktop\.Net\valuetype\valuetype\bin\Debug\netcoreapp3.1\valuetype.dll
+C:\Users\Sayali\Desktop\.Net\valuetype\valuetype\bin\Debug\netcoreapp3.1\valuetype.pdb
+C:\Users\Sayali\Desktop\.Net\valuetype\valuetype\obj\Debug\netcoreapp3.1\valuetype.csproj.AssemblyReference.cache
+C:\Users\Sayali\Desktop\.Net\valuetype\valuetype\obj\Debug\netcoreapp3.1\valuetype.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sayali\Desktop\.Net\valuetype\valuetype\obj\Debug\netcoreapp3.1\valuetype.AssemblyInfoInputs.cache
+C:\Users\Sayali\Desktop\.Net\valuetype\valuetype\obj\Debug\netcoreapp3.1\valuetype.AssemblyInfo.cs
+C:\Users\Sayali\Desktop\.Net\valuetype\valuetype\obj\Debug\netcoreapp3.1\valuetype.csproj.CoreCompileInputs.cache
+C:\Users\Sayali\Desktop\.Net\valuetype\valuetype\obj\Debug\netcoreapp3.1\valuetype.dll
+C:\Users\Sayali\Desktop\.Net\valuetype\valuetype\obj\Debug\netcoreapp3.1\valuetype.pdb
+C:\Users\Sayali\Desktop\.Net\valuetype\valuetype\obj\Debug\netcoreapp3.1\valuetype.genruntimeconfig.cache
