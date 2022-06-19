@@ -1,0 +1,57 @@
+ <table>
+        <tr>
+          <td>customer Name</td>
+          <td>
+            <input [(ngModel)]="CustomerModel.customerName" type="text">
+          </td>
+        </tr>
+        <tr>
+          <td>customer Code</td>
+          <td>
+            <input [(ngModel)]="CustomerModel.customerCode" type="text">
+          </td>
+        </tr>
+        <tr>
+          <td>customer Amount</td>
+          <td>
+            <input [(ngModel)]="CustomerModel.customerAmount" type="text">
+          </td>
+        </tr>
+        <input type="Submit" (click)="AddCustomer()">
+        <input type="button" (click)="getData()" value="getData"/>
+      </table>
+      <!-- {{CustomerModel.CustomerName}}
+      {{CustomerModel.CustomerCode}}
+      {{CustomerModel.CustomerAmount}}  -->
+      
+      <table border="2"> 
+        <tr>
+          <td>customer Code</td>
+          <td>customer Name</td>
+          <td>customer Amount</td>
+          <td>Actions</td>
+        </tr>
+        <tr *ngFor="let item of CustomerModels">
+          <td>
+            {{item.customerCode}}
+          </td>
+          <td>
+            {{item.customerName}}
+          </td>
+          <td>
+            {{item.customerAmount}}
+          </td>
+          <td>
+            <input type="button" value="Edit"  (click)="EditCustomer(item)"/>
+            <input type="button" value="Delete" (click)="DeleteCustomer(item)"/>
+          </td>
+        </tr>
+      </table>
+       
+      
+
+
+
+
+  
+ 

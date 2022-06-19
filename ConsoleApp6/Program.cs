@@ -1,4 +1,7 @@
-﻿using System;
+﻿using ConsoleApp6.Models;
+
+using System;
+
 
 namespace ConsoleApp6
 {
@@ -6,7 +9,13 @@ namespace ConsoleApp6
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+
+            SampleDB3Context db = new SampleDB3Context();
+            Tblsample3 tblsample3 = new Tblsample3();
+            tblsample3.Text = "Sayali";
+            db.Tblsample3s.Add(tblsample3);
+            db.SaveChanges();
+              Console.WriteLine("Hello World!");
         }
     }
 }
